@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 2em;
+    background-color: #4caf50;
+    color: white;
+    font-size: 14px;
+    
+  }
+
+.free-shipping{
+    position: fixed;
+    align-self: center;
+}
+
+.call-us{
+    margin-left: 80vw;
+    align-self: center;
+}

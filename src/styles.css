@@ -1,0 +1,20 @@
+/* Basic styling for layout and components */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+  }
+  
+
+  
+  .pagination button {
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  /* .active {
+    background-color: #4caf50;
+    color: white;
+  } */
+  

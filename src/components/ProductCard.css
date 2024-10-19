@@ -1,0 +1,103 @@
+.product-card {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+
+.image-card{
+    background-color: white;
+    padding-top: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.like-btn{
+    width: 20px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.product-image{ 
+    height: 300px;
+    max-width: 200px;
+}
+.view-product-btn{
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 500;
+    width: 100%;
+    border: none;
+    background-color: #0F4811;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.product-description{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.rating-section{
+    display: flex;
+    align-items: center;
+}
+
+.rating-star-img{
+    height: 12px;
+}
+
+.rating{
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.price-section{
+    display: flex;
+    .original-price{
+        text-decoration: line-through;
+    }
+    .discounted-price{
+        margin-left: 10px;
+    }
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* Change this to space-between */
+    align-items: center;
+    width: 100%; /* Ensure the container takes full width */
+    margin: 0 auto; /* Center the container */
+}
+
+.addtocart-btn {
+    height: 37px;
+    width: 170px;
+    gap: 0px;
+    border-radius: 10px;
+    border: 0;
+    background-color: #165315;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.buyonrent-btn {
+    margin-left: 10px;
+    width: 170px;
+    height: 37px;
+    gap: 0px;
+    border-radius: 10px;
+    border: 1px solid #165315; 
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+}

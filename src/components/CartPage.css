@@ -1,0 +1,56 @@
+.cart-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.close{
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+}
+.your-cart{
+    margin-top: 50px;
+    color: #165315;
+}
+hr{
+    color: black;
+    width: 90vw;
+}
+.plant-png{
+    width: 97px;
+    height: 98px;
+    top: 271px;
+    left: 178px;
+}
+.congrats{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: center;    
+    color: #165315;
+}
+.thankyou{
+    font-size: 16px;
+    text-align: center;    
+    color: #165315;
+}
+.shopping-btn{
+    width: 350px;
+    height: 45px;
+    top: 514px;
+    left: 73px;
+    gap: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    background: #165315;
+    border: none;
+    color: #fff;
+}
