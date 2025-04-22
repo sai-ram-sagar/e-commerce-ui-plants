@@ -32,7 +32,7 @@ Frontend for a plant nursery web app that allows users to browse, search, and pu
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/plant-store-frontend.git
+git clone https://github.com/sai-ram-sagar/e-commerce-ui-plants.git
 cd plant-store-frontend
 ```
 
@@ -42,3 +42,10 @@ cd plant-store-frontend
 npm install
 npm start
 ```
+---
+
+## 🧠 Note
+This project is for UI learning/demo purposes only. No data is saved. All interactions are static and visual.
+
+## ✍️ Author
+Sai Ram
