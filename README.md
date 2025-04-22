@@ -1,14 +1,44 @@
-# Getting Started with Create React App
+# 🪴 Online Plant Store - Frontend
 
-In the project directory, you can run:
-### `npm install`
-### `npm start`
+Frontend for a plant nursery web app that allows users to browse, search, and purchase plants and pots online. Features a responsive, user-friendly interface built with React.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
+## 🌱 Features
 
-### Deployed link: 
-https://e-commerce-plants-by-sairam.netlify.app/
+- 🌿 View plant & pot collections
+- 🔍 Search plants by name
+- 🛒 Add to cart with modal confirmation
+- ✅ Thank-you page after purchase
+- 📦 Cart page to view added items
+- 📱 Responsive and clean layout
+- 🧭 React Router navigation
+- 📁 Uses local JSON data (`products.json`)
 
+---
 
+## 🛠️ Tech Stack
+
+- React.js  
+- React Router  
+- Bootstrap CSS (custom styling)  
+- JSON as mock backend  
+- Functional Components & Hooks  
+
+---
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/plant-store-frontend.git
+cd plant-store-frontend
+```
+
+### 2. Install and start
+
+```bash
+npm install
+npm start
+```
